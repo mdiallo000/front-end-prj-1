@@ -1,0 +1,28 @@
+@import url(https://fonts.google.com/specimen/Karla);
+
+:root {
+  --primary: hsl(179, 62%, 43%);
+  --primaryYello: hsl(71, 73%, 54%);
+  --colorGary: hsl(204, 43%, 93%);
+  --color-GrayBlue: hsl(218, 22%, 67%);
+  --fontsize: 16px;
+  --fontfamily: "Karla", sans-serif;
+  --fontWeightOne: 400;
+  --fontWeightTwo: 700;
+}
+
+.container {
+  background-color: blue;
+}
+
+.top-section {
+  background-color: aqua;
+}
+
+.left-section {
+  background: red;
+}
+
+.right-section {
+  background-color: aliceblue;
+}
